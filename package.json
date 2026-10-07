@@ -1,0 +1,15 @@
+{
+  "name": "youtube-channel-scraper",
+  "version": "2.0.0",
+  "type": "module",
+  "description": "Subscriber count, video list and channel metadata without a YouTube API key. Python, Node.js and cURL clients for the YouTube Channel Scraper on Apify, pay per result.",
+  "main": "youtube_channel_scraper.mjs",
+  "scripts": {
+    "start": "node youtube_channel_scraper.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  },
+  "license": "MIT",
+  "homepage": "https://themineworks.com/actors/youtube-channel/"
+}
